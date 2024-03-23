@@ -1,1 +1,1 @@
-t https://anuja-13.github.io/index2/
+ https://anuja-13.github.io/index2/
